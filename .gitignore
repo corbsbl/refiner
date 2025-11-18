@@ -1,0 +1,5 @@
+.venv312/**
+.venv_wsl/**
+__pycache__/
+output/**
+outputs*/

@@ -1,0 +1,19 @@
+{
+  "source_file": "input/gus_from_cxprj.stl",
+  "refinement": {
+    "method": "laplacian",
+    "iterations": 20,
+    "pre_repair": true,
+    "timestamp": "2025-10-24T15:47:46.339401"
+  },
+  "mesh_stats": {
+    "vertices": 201047,
+    "faces": 402106,
+    "is_watertight": true
+  },
+  "unreal_export": {
+    "format": "glb",
+    "project": "mock_unreal/MyGame",
+    "content_folder": "Content/Meshes/Refined"
+  }
+}

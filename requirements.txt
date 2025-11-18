@@ -1,0 +1,7 @@
+trimesh==4.4.3
+numpy>=1.24,<3
+opencv-python>=4.9.0
+pygltflib>=1.16.2
+scipy>=1.10
+svgpathtools>=1.5
+shapely>=2.0
